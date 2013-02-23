@@ -171,11 +171,6 @@ img {
     background: none repeat scroll 0 0 #BCB799;
     width: 70%;
 }
-.jquery {
-    -moz-animation: 2s ease-out 0s normal none 1 indesign;
-    background: none repeat scroll 0 0 #333333;
-    width: 87%;
-}
 .flash {
     -moz-animation: 2s ease-out 0s normal none 1 flash;
     background: none repeat scroll 0 0 #B63E2D;
@@ -191,11 +186,46 @@ img {
     background: none repeat scroll 0 0 #333333;
     width: 97%;
 }
-.css {
-    -moz-animation: 2s ease-out 0s normal none 1 css;
+
+
+.js {
+    -moz-animation: 2s ease-out 0s normal none 1 js;
     background: none repeat scroll 0 0 #B63E2D;
-    width: 97%;
+    width: 95%;
 }
+.htmlcss {
+    -moz-animation: 2s ease-out 0s normal none 1 htmlcss;
+    background: none repeat scroll 0 0 #333333;
+    width: 90%;
+}
+.jquery {
+    -moz-animation: 2s ease-out 0s normal none 1 jquery;
+    background: none repeat scroll 0 0 #B63E2D;
+    width: 90%;
+}
+.grails {
+    -moz-animation: 2s ease-out 0s normal none 1 grails;
+    background: none repeat scroll 0 0 #BCB799;
+    width: 85%;
+}
+.scm {
+    -moz-animation: 2s ease-out 0s normal none 1 scm;
+    background: none repeat scroll 0 0 #333333;
+    width: 80%;
+}
+.extjs {
+    -moz-animation: 2s ease-out 0s normal none 1 extjs;
+    background: none repeat scroll 0 0 #B63E2D;
+    width: 75%;
+}
+.java {
+    -moz-animation: 2s ease-out 0s normal none 1 java;
+    background: none repeat scroll 0 0 #BCB799;
+    width: 72%;
+}
+
+
+
 #filter {
     z-index: 40;
 }
