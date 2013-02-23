@@ -646,7 +646,7 @@ ul.honors {
     padding: 2px 0 0;
 }
 ul.honors li {
-    background-image: url("../img/trophy_icon.png");
+    background-image: url("../img/star.png");
     background-position: left 8px;
     background-repeat: no-repeat;
     color: #333333;
