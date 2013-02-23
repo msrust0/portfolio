@@ -556,7 +556,11 @@ p {
 
 }
 #top_download {
-    -moz-transition: height 0.5s ease-in 0s, opacity 1s ease 0s;
+    -webkit-transition: height .5s ease-in, opacity 1s ease;
+    -moz-transition: height .5s ease-in, opacity 1s ease;
+    -o-transition: height .5s ease-in, opacity 1s ease;
+    -ms-transition: height .5s ease-in, opacity 1s ease;
+    transition: height .5s ease-in, opacity 1s ease;
     display: block;
     float: right;
     height: 40px;
