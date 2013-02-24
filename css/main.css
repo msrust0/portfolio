@@ -224,6 +224,11 @@ img {
     background: none repeat scroll 0 0 #333333;
     width: 80%;
 }
+.php {
+    -moz-animation: 2s ease-out 0s normal none 1 php;
+    background: none repeat scroll 0 0 #BCB799;
+    width: 75%;
+}
 .extjs {
     -moz-animation: 2s ease-out 0s normal none 1 extjs;
     background: none repeat scroll 0 0 #B63E2D;
