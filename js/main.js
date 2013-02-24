@@ -1,4 +1,5 @@
-//$(document).ready(function() {
+$(document).ready(function() {
+
 ////ACCORDION BUTTON ACTION (ON CLICK DO THE FOLLOWING)
 //$('.accordionButton').click(function() {
 ////REMOVE THE ON CLASS FROM ALL BUTTONS
@@ -30,4 +31,4 @@
 //OPENS THE DIV THAT IS ASSIGNED WITH THE ID open
 //********************************************************************************************************************/
 //$("#open").trigger('click');
-//});
+});

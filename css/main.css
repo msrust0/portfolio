@@ -586,6 +586,7 @@ p {
     overflow: hidden;
     position: absolute;
     width: 181px;
+    z-index: 20;
 }
 #top_download a {
     display: block;
